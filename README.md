@@ -1,7 +1,9 @@
 # smart-figures
 SMART design diagrams made in Office are ugly. These are nicer, and fairly easy to modify via TikZ.
 
-
+1. [Figure Previews](#figure-previews)
+2. [Use and Modification](#use-and-modification)
+3. [Attribution](#attribution)
 
 ## Figure Previews
 
@@ -17,7 +19,7 @@ This is the "prototypical" two-stage SMART design, in which only non-responders 
 This is the "prototypical" two-stage SMART design, in which only non-responders to first-stage treatment are re-randomized:
 ![image](https://dl.dropboxusercontent.com/s/ca2u4hz7we10wyz/smart-design--rerand-all.jpg)
 
-## Use
+## Use and Modification
 
 
 # Attribution
